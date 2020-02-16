@@ -11,7 +11,8 @@ My current goal is to get a job as a front-end developer so that my knowledge be
 ## Skills
 JavaScript/ES6, HTML, CSS, Git/Github, jQuery, Flexbox, SQL, BEM(theory), NPM, Webpack
 
-## 5. Code examples none
+## Code examples
+none
 
 ## Expirience
 Work experience was only on courses and also worked independently.
