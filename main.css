@@ -1,0 +1,89 @@
+.wrapper {
+
+  width: 1024px;
+  padding: 20px 0;
+  margin: 0 auto;
+  background: url("img/head.jpg") fixed;
+  background-size: 33%;
+  flex-grow: 1;
+}
+
+.wrapper>div {
+  flex-grow: 1;
+  width: 60%;
+  padding: 0 10%;
+  margin: 0 auto;
+  background: rgba(70, 70, 70, 0.7);
+}
+
+h1 {
+  color: rgb(249, 38, 114);
+  font-family: 'Anonymous Pro';
+  font-weight: normal;
+  font-size: 5.3em;
+}
+
+h2 {
+  color: rgb(253, 151, 31);
+  font-family: 'Anonymous Pro';
+  font-weight: bold;
+  font-size: 4em;
+}
+
+p,
+ol {
+  color: rgb(102, 217, 239);
+  font-family: 'Anonymous Pro';
+  font-weight: normal;
+  font-style: italic;
+  font-size: 2em;
+}
+
+.head {
+  position: relative;
+  width: 160%;
+  padding-left: 26%;
+}
+
+a {
+  color: rgb(166, 226, 46);
+}
+
+a:hover {
+  color: rgb(249, 38, 114);
+}
+
+
+/* -------------header----------------------------- */
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* -----------------main--------------------------- */
+li h2 {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* -----------------footer----------------------------- */
+footer {
+  height: 200px;
+  background: url("img/basement.jpg") no-repeat 0 -100px;
+  background-size: 100%;
+  padding: 140px 0 0 30px;
+  box-sizing: border-box;
+}
+
+footer p {
+  color: rgb(39, 40, 34);
+  font-size: 16px;
+  font-weight: bold;
+}
