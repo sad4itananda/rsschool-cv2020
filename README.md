@@ -1,3 +1,3 @@
-# https://sad4itananda.github.io/rsschool-cv/cv
-# https://sad4itananda.github.io/rsschool-cv/
+# https://sad4itananda.github.io/rsschool-cv2020/cv
+# https://sad4itananda.github.io/rsschool-cv2020/
 
